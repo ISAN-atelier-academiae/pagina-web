@@ -1,0 +1,11 @@
+{
+  "routes": [
+    {
+      "route": "/",
+      "allowedRoles": [
+        "authenticated"
+      ],
+      "rewrite": "https://isan.notion.site"
+    }
+  ]
+}
