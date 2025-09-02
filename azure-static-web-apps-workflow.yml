@@ -22,4 +22,4 @@ jobs:
           app_location: "/"                # index.html está en la raíz
           output_location: ""              # sin carpeta de salida
           skip_app_build: true             # evita compilación con Oryx
-          app_artifact_location: "/"       # fuerza la ubicación del contenido
+     
