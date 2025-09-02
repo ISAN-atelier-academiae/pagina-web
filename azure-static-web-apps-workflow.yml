@@ -21,4 +21,3 @@ jobs:
           action: "upload"
           app_location: "/"                
           skip_app_build: true
-     
