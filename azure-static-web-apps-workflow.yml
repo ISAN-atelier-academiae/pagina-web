@@ -7,3 +7,4 @@
           skip_app_build: true
           app_location: "/"
           output_location: ""
+        config_file_location: "/"
