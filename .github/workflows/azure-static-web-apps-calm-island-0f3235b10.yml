@@ -23,7 +23,9 @@ jobs:
           skip_app_build: true
           app_location: "/"  # Cambia si tu app está en una subcarpeta
           output_location: ""  # No se necesita si no hay build
-          config_file_location: "./staticwebapp.config.json"
+          config_file_location: "."
+
+
 
 
 
